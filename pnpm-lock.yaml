@@ -9,6 +9,7 @@ specifiers:
   '@typescript-eslint/parser': ^5.54.0
   autoprefixer: ^10.4.13
   classnames: ^2.3.2
+  dayjs: ^1.11.7
   eslint: ^8.35.0
   eslint-plugin-solid: ^0.10.0
   postcss: ^8.4.21
@@ -26,6 +27,7 @@ dependencies:
   '@solidjs/meta': 0.28.2_solid-js@1.6.11
   '@solidjs/router': 0.7.0_solid-js@1.6.11
   classnames: 2.3.2
+  dayjs: 1.11.7
   solid-js: 1.6.11
   solid-start: 0.2.22_hejeyvvxli5j5tadfdqpsfsbxm
   undici: 5.20.0
@@ -1911,6 +1913,10 @@ packages:
 
   /csstype/3.1.1:
     resolution: {integrity: sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==}
+
+  /dayjs/1.11.7:
+    resolution: {integrity: sha512-+Yw9U6YO5TQohxLcIkrXBeY73WP3ejHWVvx8XCk3gxvQDCTEmS48ZrSZCKciI7Bhl/uCMyxYtE9UqRILmFphkQ==}
+    dev: false
 
   /debug/2.6.9:
     resolution: {integrity: sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==}
